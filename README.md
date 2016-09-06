@@ -1,5 +1,7 @@
 Alice chatbot with TTS
 
+note: run installReq.sh to install dependencies
+
 To run Alice => 
 	cd alice
 	python2 AliceTTS.py
